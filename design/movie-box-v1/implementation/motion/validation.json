@@ -1,0 +1,21 @@
+{
+  "verified_at": "2026-08-30T05:41:38.273819+00:00",
+  "checks": "passed",
+  "typecheck": "passed",
+  "ui_logic_tests": {
+    "passed": 11,
+    "failed": 0
+  },
+  "native_build": "macOS arm64 passed",
+  "linux": "not verified on this host",
+  "artifacts": [
+    {
+      "path": "/Users/werleydessources/Documents/Codex/MoviBox/src-tauri/target/release/bundle/macos/MoviBox.app",
+      "exists": true
+    },
+    {
+      "path": "/Users/werleydessources/Documents/Codex/MoviBox/src-tauri/target/release/bundle/dmg/MoviBox_0.9.21_aarch64.dmg",
+      "exists": true
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+:root {
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+  --motion-fast: 120ms;
+  --motion-popup: 180ms;
+  --motion-surface: 220ms;
+}
+
+.sidebar-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.sidebar .sidebar-toggle {
+  width: 100%;
+}
+.sidebar.sidebar-collapsed {
+  width: 68px;
+  padding-inline: 10px;
+}
+.sidebar-collapsed .brand {
+  padding: 0;
+  justify-content: center;
+}
+.sidebar-collapsed .brand > span,
+.sidebar-collapsed .nav-item > span {
+  display: none;
+}
+.sidebar-collapsed .nav-item {
+  justify-content: center;
+  padding: 0;
+}
+.sidebar-collapsed .provider-mini {
+  width: 100%;
+}
+.sidebar.sidebar-mobile {
+  position: fixed;
+  inset: 0 auto 0 0;
+  width: 208px;
+  z-index: 101;
+  padding: 28px 16px 20px;
+  outline: none;
+  transition:
+    transform var(--motion-surface) var(--ease-drawer),
+    opacity var(--motion-surface) var(--ease-out);
+}
+.sidebar-mobile .brand {
+  justify-content: flex-start;
+  padding: 0 8px;
+}
+.sidebar-mobile .brand > span,
+.sidebar.sidebar-mobile .nav-item > span {
+  display: inline;
+}
+.sidebar-mobile .nav-item {
+  justify-content: flex-start;
+  padding: 0 12px;
+}
+.sidebar-mobile .provider-status {
+  display: flex;
+}
+.sidebar-mobile[data-starting-style],
+.sidebar-mobile[data-ending-style] {
+  transform: translateX(-100%);
+  opacity: 0;
+}
+.tooltip-positioner {
+  z-index: 140;
+}
+.tooltip {
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  background: var(--raised);
+  color: var(--text);
+  box-shadow: var(--shadow);
+  font-size: 12px;
+  line-height: 18px;
+  transform-origin: var(--transform-origin);
+  transition:
+    transform 125ms var(--ease-out),
+    opacity 125ms var(--ease-out);
+}
+.tooltip[data-starting-style],
+.tooltip[data-ending-style] {
+  opacity: 0;
+  transform: scale(0.97);
+}
+.tooltip[data-instant] {
+  transition-duration: 0ms;
+}
+
+.button,
+.choice,
+.tabs button,
+.checkbox,
+.sidebar-toggle {
+  transition:
+    transform var(--motion-fast) var(--ease-out),
+    opacity var(--motion-fast) ease;
+}
+:root[data-motion-input="pointer"]
+  :is(.button, .choice, .tabs button, .checkbox, .sidebar-toggle):active:not(:disabled):not(
+    [data-disabled]
+  ) {
+  transform: scale(0.97);
+}
+.switch-thumb {
+  transition: transform var(--motion-fast) var(--ease-out);
+}
+.choice-menu,
+.popover {
+  transform-origin: var(--transform-origin);
+  transition:
+    opacity var(--motion-popup) var(--ease-out),
+    transform var(--motion-popup) var(--ease-out);
+}
+:is(.choice-menu, .popover)[data-starting-style],
+:is(.choice-menu, .popover)[data-ending-style] {
+  opacity: 0;
+  transform: scale(0.97);
+}
+.modal {
+  transition:
+    opacity var(--motion-surface) var(--ease-out),
+    transform var(--motion-surface) var(--ease-out);
+}
+.modal[data-starting-style],
+.modal[data-ending-style] {
+  opacity: 0;
+  transform: scale(0.97);
+}
+.modal-backdrop {
+  transition: opacity var(--motion-surface) var(--ease-out);
+}
+.modal-backdrop[data-starting-style],
+.modal-backdrop[data-ending-style] {
+  opacity: 0;
+}
+.drawer[data-exiting="true"],
+.toast[data-exiting="true"] {
+  pointer-events: none;
+}
+.setup-content {
+  transition: opacity var(--motion-fast) var(--ease-out);
+  @starting-style {
+    opacity: 0.35;
+  }
+}
+.modal-layer:has(.modal[data-ending-style]) {
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --motion-popup: 120ms;
+    --motion-surface: 120ms;
+  }
+  :is(.button, .choice, .tabs button, .checkbox, .sidebar-toggle):active,
+  :is(.choice-menu, .popover, .modal, .tooltip, .sidebar-mobile)[data-starting-style],
+  :is(.choice-menu, .popover, .modal, .tooltip, .sidebar-mobile)[data-ending-style] {
+    transform: none !important;
+  }
+  .switch-thumb {
+    transition: none;
+  }
+}
+:root[data-motion="Reduce"] {
+  --motion-popup: 120ms;
+  --motion-surface: 120ms;
+}
+:root[data-motion="Reduce"] :is(.button, .choice, .tabs button, .checkbox, .sidebar-toggle):active,
+:root[data-motion="Reduce"]
+  :is(.choice-menu, .popover, .modal, .tooltip, .sidebar-mobile)[data-starting-style],
+:root[data-motion="Reduce"]
+  :is(.choice-menu, .popover, .modal, .tooltip, .sidebar-mobile)[data-ending-style] {
+  transform: none !important;
+}
+:root[data-motion="Reduce"] .switch-thumb {
+  transition: none;
+}
+:root[data-motion-input="keyboard"] *,
+:root[data-motion-input="keyboard"] *::before,
+:root[data-motion-input="keyboard"] *::after {
+  transition-duration: 0ms !important;
+}
+:root[data-motion-input="keyboard"]
+  :is(.choice-menu, .popover, .modal, .tooltip, .sidebar-mobile)[data-starting-style] {
+  opacity: 1;
+  transform: none;
+}

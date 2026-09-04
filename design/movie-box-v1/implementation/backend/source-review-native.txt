@@ -1,0 +1,56 @@
+Window: "MoviBox", App: MoviBox.
+0 standard window MoviBox, Secondary Actions: Raise
+	1 scroll area
+		2 HTML content Description: MoviBox, URL: tauri://localhost#/discover/tt9288030
+			3 button Find sources for 8 episodes
+			4 container
+				5 button
+				6 container Review episode matches
+					7 heading Review episode matches, Value: 2
+						8 text Review episode matches
+					9 text Reacher · Season 1 · 8 selected
+					10 button Close dialog
+					11 text Download sources not configured
+					12 text No download-source add-on is configured for this title. Cinemeta supplies titles and episodes; TorBox prepares sources after a source add-on finds them.
+					13 summary Search details · 1 add-ons checked, Value: off
+						14 text Search details · 1 add-ons checked
+					15 button Add download sources
+					16 button View search logs
+					17 text S01E01
+					18 text Episode
+					19 text Setup needed
+					20 text S01E02
+					21 text Episode
+					22 text Setup needed
+					23 text S01E03
+					24 text Episode
+					25 text Setup needed
+					26 text S01E04
+					27 text Episode
+					28 text Setup needed
+					29 text S01E05
+					30 text Episode
+					31 text Setup needed
+					32 text S01E06
+					33 text Episode
+					34 text Setup needed
+					35 text S01E07
+					36 text Episode
+					37 text Setup needed
+					38 text S01E08
+					39 text Episode
+					40 text Setup needed
+					41 container
+						42 checkbox (settable, integer) Monitor the unmatched episodes, Value: 1
+						43 text Monitor the unmatched episodes
+					44 button Back
+					45 button Retry matching
+					46 button (disabled) Queue 0 matched episodes
+				47 button
+48 menu bar
+	49 MoviBox
+	50 File
+	51 Edit
+	52 View
+	53 Window
+	54 Help

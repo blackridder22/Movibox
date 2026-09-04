@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Dark body",
+    "foreground": "#F2F3F4",
+    "background": "#101113",
+    "contrastRatio": 17.0
+  },
+  {
+    "role": "Dark secondary",
+    "foreground": "#A2A6AD",
+    "background": "#1B1D20",
+    "contrastRatio": 6.91
+  },
+  {
+    "role": "Copper action",
+    "foreground": "#21160F",
+    "background": "#F08B64",
+    "contrastRatio": 7.23
+  },
+  {
+    "role": "Light body",
+    "foreground": "#202124",
+    "background": "#FFFFFF",
+    "contrastRatio": 16.1
+  },
+  {
+    "role": "Light secondary",
+    "foreground": "#60656E",
+    "background": "#F4F5F6",
+    "contrastRatio": 5.37
+  },
+  {
+    "role": "Light action",
+    "foreground": "#FFFFFF",
+    "background": "#AD4927",
+    "contrastRatio": 5.59
+  }
+]

@@ -1,0 +1,1173 @@
+[
+  {
+    "name": "25-sources",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Configure",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Sources & add-ons",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "26-storage",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Check folder permissions",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Storage",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "27-downloads",
+    "groups": [],
+    "heading": "Downloads",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "28-scheduling",
+    "groups": [],
+    "heading": "Scheduling",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "29-appearance",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Reset appearance",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Appearance",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "30-shortcuts",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Reset shortcuts",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Shortcuts",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "31-notifications",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "System notification settings Send test notification",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Notifications",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "01-discover",
+    "groups": [],
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "14-downloads",
+    "groups": [],
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "17-monitoring",
+    "groups": [],
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "21-library",
+    "groups": [],
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "08-filter-popover",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Reset filters Show 12 titles",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Filter catalog",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "08-filter-popover",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Reset filters Show 12 titles",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Filter movies",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "02-movie-details",
+    "groups": [],
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "03-source-popover",
+    "groups": [],
+    "heading": "Choose a source",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "source-preparation-confirm",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Keep it Prepare source",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Prepare this source?",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "04-monitor-setup",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Cancel Create monitoring rule",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Monitor Interstellar",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "05-custom-schedule",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Cancel Create monitoring rule",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Cancel Use schedule",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Monitor Interstellar",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "05-invalid-schedule",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Cancel Create monitoring rule",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Cancel Use schedule",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Monitor Interstellar",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "15-download-details",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Pause download Cancel download",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Interstellar",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "16-cancel-download",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Pause download Cancel download",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Keep it Cancel downloads",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Interstellar",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "51-download-actions",
+    "groups": [],
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "49-download-bulk",
+    "groups": [],
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "18-rule-details",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Run now Edit rule",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Interstellar rule",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "48-rule-history",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Back to Monitoring",
+        "wrap": "wrap"
+      }
+    ],
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "48-history-errors",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Back to Monitoring",
+        "wrap": "wrap"
+      }
+    ],
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "22-library-file",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Open file Reveal file",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Interstellar",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "23b-delete-file",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Open file Reveal file",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Keep it Delete file",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Interstellar",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "47-library-series",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Back to Library",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Find missing episodes Open next episode",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Remove library entry Delete local files…",
+        "wrap": "wrap"
+      }
+    ],
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "mobile-library-series",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Back to Library",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Find missing episodes Open next episode",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Remove library entry Delete local files…",
+        "wrap": "wrap"
+      }
+    ],
+    "overflow": false,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "name": "mobile-downloads",
+    "groups": [],
+    "overflow": false,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "name": "mobile-providers",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Replace key Test connection",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Providers",
+    "overflow": false,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "name": "mobile-about-preview",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Copy diagnostics Export diagnostics Open logs",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Open-source licenses Report a problem",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Preview first-run setup Preview menu bar controls Reset demo workspace",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "About & diagnostics",
+    "overflow": false,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "name": "mobile-setup-provider",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Set up later Verify and continue",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Your next download,already taken care of.",
+    "overflow": false,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "name": "33-setup-provider",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Set up later Verify and continue",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Your next download,already taken care of.",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "37-provider-validation",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Set up later Verify and continue",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Your next download,already taken care of.",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "34-setup-sources",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Back Set up later Validate and add source",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Use existing demo sources",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Your next download,already taken care of.",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "35-setup-storage",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Back Set up later Continue",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Your next download,already taken care of.",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "36-setup-ready",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Back Set up later Start discovering",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Your next download,already taken care of.",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "11-season",
+    "groups": [],
+    "heading": "Severance · Season 1",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "13-episode-review",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Back Queue 5 ready episodes",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Severance · Season 1",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "37-connect-provider",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Replace key Test connection",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Cancel Verify and continue",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Providers",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "38-add-source-validation",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Configure",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Cancel Validate and add source",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Sources & add-ons",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "43-empty-downloads",
+    "groups": [],
+    "heading": "No downloads here",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "44-offline",
+    "groups": [],
+    "heading": "Couldn't load the catalog",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "37-provider-error",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Replace key Test connection",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Providers",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "39-storage-error",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Check folder permissions",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Storage",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "39-storage-error",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Check folder permissions",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Storage",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "43-loading",
+    "groups": [],
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "06-no-source",
+    "groups": [],
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "52-logs",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Copy diagnostics Export diagnostics Open logs",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Open-source licenses Report a problem",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Preview first-run setup Preview menu bar controls Reset demo workspace",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "About & diagnostics",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "52-export-diagnostics",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Copy diagnostics Export diagnostics Open logs",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Open-source licenses Report a problem",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Preview first-run setup Preview menu bar controls Reset demo workspace",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Export report",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "About & diagnostics",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "52-licenses",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Copy diagnostics Export diagnostics Open logs",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Open-source licenses Report a problem",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Preview first-run setup Preview menu bar controls Reset demo workspace",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "About & diagnostics",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "53-license-detail",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Copy diagnostics Export diagnostics Open logs",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Open-source licenses Report a problem",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Preview first-run setup Preview menu bar controls Reset demo workspace",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "About & diagnostics",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "desktop-min-appearance",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Reset appearance",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Appearance",
+    "overflow": false,
+    "viewport": {
+      "height": 600,
+      "width": 960
+    }
+  },
+  {
+    "name": "51-menu-bar-preview",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Copy diagnostics Export diagnostics Open logs",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Open-source licenses Report a problem",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Preview first-run setup Preview menu bar controls Reset demo workspace",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "About & diagnostics",
+    "overflow": false,
+    "viewport": {
+      "height": 600,
+      "width": 960
+    }
+  },
+  {
+    "name": "51-quit-confirm-layering",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Copy diagnostics Export diagnostics Open logs",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Open-source licenses Report a problem",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Preview first-run setup Preview menu bar controls Reset demo workspace",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Keep it Simulate quit",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "About & diagnostics",
+    "overflow": false,
+    "viewport": {
+      "height": 600,
+      "width": 960
+    }
+  },
+  {
+    "name": "46-light-min-desktop",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Reset appearance",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Appearance",
+    "overflow": false,
+    "viewport": {
+      "height": 600,
+      "width": 960
+    }
+  },
+  {
+    "name": "mobile-appearance",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Reset appearance",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Appearance",
+    "overflow": false,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "name": "mobile-connect-provider",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Replace key Test connection",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Cancel Verify and continue",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Providers",
+    "overflow": false,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "name": "mobile-library-series",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Back to Library",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Find missing episodes Open next episode",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Remove library entry Delete local files…",
+        "wrap": "wrap"
+      }
+    ],
+    "overflow": false,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "name": "mobile-connect-provider",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Replace key Test connection",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Cancel Verify and continue",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Providers",
+    "overflow": false,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "name": "mobile-library-series",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Back to Library",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Find missing episodes Open next episode",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Remove library entry Delete local files…",
+        "wrap": "wrap"
+      }
+    ],
+    "overflow": false,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "name": "mobile-filter-popover",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Reset filters Show 12 titles",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Filter movies",
+    "overflow": false,
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "name": "33-setup-provider",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Set up later Verify and continue",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Your next download,already taken care of.",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "37-provider-validation",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Set up later Verify and continue",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "Your next download,already taken care of.",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "32-about",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Copy diagnostics Export diagnostics Open logs",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Open-source licenses Report a problem",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Preview first-run setup Preview menu bar controls Reset demo workspace",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "About & diagnostics",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  {
+    "name": "32-about-preview-actions",
+    "groups": [
+      {
+        "gap": "8px",
+        "text": "Copy diagnostics Export diagnostics Open logs",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Open-source licenses Report a problem",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "text": "Preview first-run setup Preview menu bar controls Reset demo workspace",
+        "wrap": "wrap"
+      }
+    ],
+    "heading": "About & diagnostics",
+    "overflow": false,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  }
+]

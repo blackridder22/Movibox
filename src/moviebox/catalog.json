@@ -1,0 +1,345 @@
+[
+  {
+    "id": "interstellar",
+    "title": "Interstellar",
+    "year": "2014",
+    "kind": "movie",
+    "genre": "Sci-fi",
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "runtime": "169 min",
+    "rating": 8.7,
+    "poster": "/moviebox/interstellar.jpg",
+    "episodes": []
+  },
+  {
+    "id": "dune",
+    "title": "Dune: Part One",
+    "year": "2021",
+    "kind": "movie",
+    "genre": "Sci-fi",
+    "genres": ["Action", "Adventure", "Drama"],
+    "runtime": "155 min",
+    "rating": 8,
+    "poster": "/moviebox/dune.jpg",
+    "episodes": []
+  },
+  {
+    "id": "arrival",
+    "title": "Arrival",
+    "year": "2016",
+    "kind": "movie",
+    "genre": "Sci-fi",
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "runtime": "116 min",
+    "rating": 7.9,
+    "poster": "/moviebox/arrival.jpg",
+    "episodes": []
+  },
+  {
+    "id": "the-batman",
+    "title": "The Batman",
+    "year": "2022",
+    "kind": "movie",
+    "genre": "Crime",
+    "genres": ["Action", "Crime", "Drama"],
+    "runtime": "177 min",
+    "rating": 7.8,
+    "poster": "/moviebox/the-batman.jpg",
+    "episodes": []
+  },
+  {
+    "id": "past-lives",
+    "title": "Past Lives",
+    "year": "2023",
+    "kind": "movie",
+    "genre": "Romance",
+    "genres": ["Drama", "Romance"],
+    "runtime": "106 min",
+    "rating": 7.9,
+    "poster": "/moviebox/past-lives.jpg",
+    "episodes": []
+  },
+  {
+    "id": "grand-budapest",
+    "title": "Grand Budapest Hotel",
+    "year": "2014",
+    "kind": "movie",
+    "genre": "Comedy",
+    "genres": ["Comedy", "Drama"],
+    "runtime": "100 min",
+    "rating": 8.1,
+    "poster": "/moviebox/grand-budapest.jpg",
+    "episodes": []
+  },
+  {
+    "id": "blade-runner-2049",
+    "title": "Blade Runner 2049",
+    "year": "2017",
+    "kind": "movie",
+    "genre": "Sci-fi",
+    "genres": ["Action", "Drama", "Mystery"],
+    "runtime": "164 min",
+    "rating": 8,
+    "poster": "/moviebox/blade-runner-2049.jpg",
+    "episodes": []
+  },
+  {
+    "id": "her",
+    "title": "Her",
+    "year": "2014",
+    "kind": "movie",
+    "genre": "Romance",
+    "genres": ["Drama", "Romance", "Sci-Fi"],
+    "runtime": "126 min",
+    "rating": 8,
+    "poster": "/moviebox/her.jpg",
+    "episodes": []
+  },
+  {
+    "id": "moonrise-kingdom",
+    "title": "Moonrise Kingdom",
+    "year": "2012",
+    "kind": "movie",
+    "genre": "Adventure",
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "runtime": "94 min",
+    "rating": 7.8,
+    "poster": "/moviebox/moonrise-kingdom.jpg",
+    "episodes": []
+  },
+  {
+    "id": "everything-everywhere",
+    "title": "Everything Everywhere All at Once",
+    "year": "2022",
+    "kind": "movie",
+    "genre": "Adventure",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "runtime": "140 min",
+    "rating": 7.8,
+    "poster": "/moviebox/everything-everywhere.jpg",
+    "episodes": []
+  },
+  {
+    "id": "perfect-days",
+    "title": "Perfect Days",
+    "year": "2023",
+    "kind": "movie",
+    "genre": "Drama",
+    "genres": ["Drama"],
+    "runtime": "124 min",
+    "rating": 7.9,
+    "poster": "/moviebox/perfect-days.jpg",
+    "episodes": []
+  },
+  {
+    "id": "oppenheimer",
+    "title": "Oppenheimer",
+    "year": "2023",
+    "kind": "movie",
+    "genre": "Drama",
+    "genres": ["Biography", "Drama", "History"],
+    "runtime": "181 min",
+    "rating": 8.3,
+    "poster": "/moviebox/oppenheimer.jpg",
+    "episodes": []
+  },
+  {
+    "id": "severance",
+    "title": "Severance",
+    "year": "2022\u2013",
+    "kind": "series",
+    "genre": "Drama",
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "runtime": "45 min",
+    "rating": 8.7,
+    "poster": "/moviebox/severance.jpg",
+    "episodes": [
+      {
+        "title": "Good News About Hell",
+        "season": 1,
+        "episode": 1,
+        "released": "2022-02-19T05:00:00.000Z"
+      },
+      {
+        "title": "Half Loop",
+        "season": 1,
+        "episode": 2,
+        "released": "2022-02-19T05:00:00.000Z"
+      },
+      {
+        "title": "In Perpetuity",
+        "season": 1,
+        "episode": 3,
+        "released": "2022-02-26T05:00:00.000Z"
+      },
+      {
+        "title": "The You You Are",
+        "season": 1,
+        "episode": 4,
+        "released": "2022-03-05T05:00:00.000Z"
+      },
+      {
+        "title": "The Grim Barbarity of Optics and Design",
+        "season": 1,
+        "episode": 5,
+        "released": "2022-03-12T05:00:00.000Z"
+      },
+      {
+        "title": "Hide and Seek",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-03-19T05:00:00.000Z"
+      },
+      {
+        "title": "Defiant Jazz",
+        "season": 1,
+        "episode": 7,
+        "released": "2022-03-26T05:00:00.000Z"
+      },
+      {
+        "title": "What\u2019s for Dinner?",
+        "season": 1,
+        "episode": 8,
+        "released": "2022-04-02T05:00:00.000Z"
+      },
+      {
+        "title": "The We We Are",
+        "season": 1,
+        "episode": 9,
+        "released": "2022-04-09T05:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "silo",
+    "title": "Silo",
+    "year": "2023\u2013",
+    "kind": "series",
+    "genre": "Drama",
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "runtime": "45 min",
+    "rating": 8,
+    "poster": "/moviebox/silo.jpg",
+    "episodes": []
+  },
+  {
+    "id": "the-bear",
+    "title": "The Bear",
+    "year": "2022\u20132026",
+    "kind": "series",
+    "genre": "Comedy",
+    "genres": ["Comedy", "Drama"],
+    "runtime": "45 min",
+    "rating": 7.9,
+    "poster": "/moviebox/the-bear.jpg",
+    "episodes": []
+  },
+  {
+    "id": "dark",
+    "title": "Dark",
+    "year": "2017\u20132020",
+    "kind": "series",
+    "genre": "Crime",
+    "genres": ["Crime", "Drama", "Mystery"],
+    "runtime": "45 min",
+    "rating": 7.8,
+    "poster": "/moviebox/dark.jpg",
+    "episodes": []
+  },
+  {
+    "id": "the-last-of-us",
+    "title": "The Last of Us",
+    "year": "2023\u2013",
+    "kind": "series",
+    "genre": "Action",
+    "genres": ["Action", "Adventure", "Drama"],
+    "runtime": "45 min",
+    "rating": 7.9,
+    "poster": "/moviebox/the-last-of-us.jpg",
+    "episodes": []
+  },
+  {
+    "id": "breaking-bad",
+    "title": "Breaking Bad",
+    "year": "2008\u20132013",
+    "kind": "series",
+    "genre": "Crime",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "runtime": "45 min",
+    "rating": 8.1,
+    "poster": "/moviebox/breaking-bad.jpg",
+    "episodes": []
+  },
+  {
+    "id": "andor",
+    "title": "Andor",
+    "year": "2022\u20132025",
+    "kind": "series",
+    "genre": "Action",
+    "genres": ["Action", "Adventure", "Drama"],
+    "runtime": "45 min",
+    "rating": 8,
+    "poster": "/moviebox/andor.jpg",
+    "episodes": []
+  },
+  {
+    "id": "shogun",
+    "title": "Shogun",
+    "year": "2024\u20132026",
+    "kind": "series",
+    "genre": "Action",
+    "genres": ["Action", "Adventure", "Drama"],
+    "runtime": "45 min",
+    "rating": 8,
+    "poster": "/moviebox/shogun.jpg",
+    "episodes": []
+  },
+  {
+    "id": "the-expanse",
+    "title": "The Expanse",
+    "year": "2015\u20132022",
+    "kind": "series",
+    "genre": "Drama",
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "runtime": "45 min",
+    "rating": 7.8,
+    "poster": "/moviebox/the-expanse.jpg",
+    "episodes": []
+  },
+  {
+    "id": "succession",
+    "title": "Succession",
+    "year": "2018\u20132023",
+    "kind": "series",
+    "genre": "Comedy",
+    "genres": ["Comedy", "Drama"],
+    "runtime": "45 min",
+    "rating": 7.8,
+    "poster": "/moviebox/succession.jpg",
+    "episodes": []
+  },
+  {
+    "id": "slow-horses",
+    "title": "Slow Horses",
+    "year": "2022\u2013",
+    "kind": "series",
+    "genre": "Drama",
+    "genres": ["Drama", "Thriller"],
+    "runtime": "45 min",
+    "rating": 7.9,
+    "poster": "/moviebox/slow-horses.jpg",
+    "episodes": []
+  },
+  {
+    "id": "foundation",
+    "title": "Foundation",
+    "year": "2021\u2013",
+    "kind": "series",
+    "genre": "Drama",
+    "genres": ["Drama", "Sci-Fi"],
+    "runtime": "45 min",
+    "rating": 8.3,
+    "poster": "/moviebox/foundation.jpg",
+    "episodes": []
+  }
+]

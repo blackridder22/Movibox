@@ -1,0 +1,1298 @@
+[
+  {
+    "artboard": "00-design-index",
+    "node": "Design data is illus\u2026",
+    "right": 1392,
+    "bottom": 852,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "01-discover",
+    "node": "Discover content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "01-discover",
+    "node": "Discover content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "01-discover",
+    "node": "Catalog pagination",
+    "right": 1408,
+    "bottom": 856,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "02-movie-details",
+    "node": "Movie details \u00b7 non-modal side panel",
+    "right": 1440.0,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "02-movie-details",
+    "node": "Movie details \u00b7 non-modal side panel",
+    "right": 1440.0,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "02-movie-details",
+    "node": "Movie information and download",
+    "right": 1440.0,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "03-sources",
+    "node": "Source picker",
+    "right": 1416,
+    "bottom": 843,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "05-custom-schedule",
+    "node": "Modal backdrop",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "05-custom-schedule",
+    "node": "05 \u00b7 Custom schedule",
+    "right": 980.0,
+    "bottom": 798,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "05-custom-schedule",
+    "node": "Dialog actions",
+    "right": 955,
+    "bottom": 773,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "06-no-source",
+    "node": "Movie details \u00b7 non-modal side panel",
+    "right": 1440.0,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "07-search",
+    "node": "Search suggestions",
+    "right": 1408.0,
+    "bottom": 370,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "08-filters",
+    "node": "Filter popover",
+    "right": 1408.0,
+    "bottom": 605,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "10-series",
+    "node": "Discover content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "11-season",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "11-season",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "11-season",
+    "node": "Season workspace",
+    "right": 1408,
+    "bottom": 792,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "12-series-monitor",
+    "node": "Modal backdrop",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "12-series-monitor",
+    "node": "12 \u00b7 Monitor Severance",
+    "right": 1000,
+    "bottom": 779,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "12-series-monitor",
+    "node": "Dialog actions",
+    "right": 975,
+    "bottom": 754,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "13-episode-review",
+    "node": "Modal backdrop",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "13-episode-review",
+    "node": "13 \u00b7 Review episode matches",
+    "right": 1040.0,
+    "bottom": 749.5,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "13-episode-review",
+    "node": "Dialog actions",
+    "right": 1015,
+    "bottom": 724.5,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "14-downloads",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "14-downloads",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "14-downloads",
+    "node": "Download queue",
+    "right": 1408,
+    "bottom": 836,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "15-download-details",
+    "node": "Drawer backdrop",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "15-download-details",
+    "node": "15 \u00b7 Interstellar",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "15-download-details",
+    "node": "Copy diagnostic details",
+    "right": 1416.0,
+    "bottom": 813,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "16-cancel-download",
+    "node": "Modal backdrop",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "16-cancel-download",
+    "node": "16 \u00b7 Cancel this download?",
+    "right": 980.0,
+    "bottom": 615.5,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "16-cancel-download",
+    "node": "Dialog actions",
+    "right": 955,
+    "bottom": 590.5,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "21-library",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "21-library",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "21-library",
+    "node": "Open Dark library",
+    "right": 1408,
+    "bottom": 766,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "22-library-file",
+    "node": "Drawer backdrop",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "22-library-file",
+    "node": "22 \u00b7 Interstellar",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "22-library-file",
+    "node": "Manage library entry",
+    "right": 1416.0,
+    "bottom": 782,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "23-remove-entry",
+    "node": "Modal backdrop",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "23-remove-entry",
+    "node": "23 \u00b7 Remove from Library?",
+    "right": 970,
+    "bottom": 577,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "23-remove-entry",
+    "node": "Dialog actions",
+    "right": 945,
+    "bottom": 552,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "23b-delete-file",
+    "node": "Modal backdrop",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "23b-delete-file",
+    "node": "23b \u00b7 Delete the local file?",
+    "right": 980.0,
+    "bottom": 585.5,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "23b-delete-file",
+    "node": "Dialog actions",
+    "right": 955,
+    "bottom": 560.5,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "24-providers",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "24-providers",
+    "node": "Providers",
+    "right": 1268,
+    "bottom": 793,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "24-providers",
+    "node": "Add provider",
+    "right": 578,
+    "bottom": 793,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "24-providers",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "24-providers",
+    "node": "Settings layout",
+    "right": 1408,
+    "bottom": 793,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "25-sources",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "25-sources",
+    "node": "Sources & add-ons",
+    "right": 1268,
+    "bottom": 720,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "25-sources",
+    "node": "Catalog order",
+    "right": 1268,
+    "bottom": 720,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "25-sources",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "25-sources",
+    "node": "Settings layout",
+    "right": 1408,
+    "bottom": 720,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "26-storage",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "26-storage",
+    "node": "Storage",
+    "right": 1268,
+    "bottom": 852,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "26-storage",
+    "node": "Temporary files",
+    "right": 1268,
+    "bottom": 852,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "26-storage",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "26-storage",
+    "node": "Settings layout",
+    "right": 1408,
+    "bottom": 852,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "27-download-preferences",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "27-download-preferences",
+    "node": "Downloads",
+    "right": 1268,
+    "bottom": 863,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "27-download-preferences",
+    "node": "Skip duplicate files",
+    "right": 1268,
+    "bottom": 863,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "27-download-preferences",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "27-download-preferences",
+    "node": "Settings layout",
+    "right": 1408,
+    "bottom": 863,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "28-scheduling",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "28-scheduling",
+    "node": "Scheduling",
+    "right": 1268,
+    "bottom": 849,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "28-scheduling",
+    "node": "Quitting and sleeping pause checks",
+    "right": 1268,
+    "bottom": 849,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "28-scheduling",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "28-scheduling",
+    "node": "Settings layout",
+    "right": 1408,
+    "bottom": 849,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "29-appearance",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "29-appearance",
+    "node": "Appearance",
+    "right": 1268,
+    "bottom": 873,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "29-appearance",
+    "node": "Dialog actions",
+    "right": 1268,
+    "bottom": 873,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "29-appearance",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "29-appearance",
+    "node": "Settings layout",
+    "right": 1408,
+    "bottom": 873,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "30-shortcuts",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "30-shortcuts",
+    "node": "Shortcuts",
+    "right": 1268,
+    "bottom": 868,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "30-shortcuts",
+    "node": "Dialog actions",
+    "right": 1268,
+    "bottom": 868,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "30-shortcuts",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "30-shortcuts",
+    "node": "Settings layout",
+    "right": 1408,
+    "bottom": 868,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "31-notifications",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "31-notifications",
+    "node": "Notifications",
+    "right": 1268,
+    "bottom": 863,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "31-notifications",
+    "node": "Dialog actions",
+    "right": 1268,
+    "bottom": 863,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "31-notifications",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "31-notifications",
+    "node": "Settings layout",
+    "right": 1408,
+    "bottom": 863,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "32-about",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "32-about",
+    "node": "About & diagnostics",
+    "right": 1268,
+    "bottom": 779,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "32-about",
+    "node": "Dialog actions",
+    "right": 1268,
+    "bottom": 779,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "32-about",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "32-about",
+    "node": "Settings layout",
+    "right": 1408,
+    "bottom": 779,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "33-setup-provider",
+    "node": "Setup form area",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "33-setup-provider",
+    "node": "Setup form",
+    "right": 1200,
+    "bottom": 699,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "33-setup-provider",
+    "node": "Dialog actions",
+    "right": 1200,
+    "bottom": 699,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "34-setup-sources",
+    "node": "Setup form area",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "34-setup-sources",
+    "node": "Setup form",
+    "right": 1200,
+    "bottom": 697.5,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "34-setup-sources",
+    "node": "Dialog actions",
+    "right": 1200,
+    "bottom": 697.5,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "35-setup-storage",
+    "node": "Setup form area",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "35-setup-storage",
+    "node": "Setup form",
+    "right": 1200,
+    "bottom": 735.5,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "35-setup-storage",
+    "node": "Dialog actions",
+    "right": 1200,
+    "bottom": 735.5,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "36-setup-ready",
+    "node": "Setup form area",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "36-setup-ready",
+    "node": "Setup form",
+    "right": 1200,
+    "bottom": 716,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "36-setup-ready",
+    "node": "Dialog actions",
+    "right": 1200,
+    "bottom": 716,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "37-provider-states",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 923,
+    "artboardWidth": 1440,
+    "artboardHeight": 955,
+    "fits": true
+  },
+  {
+    "artboard": "38-addon-states",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 1011,
+    "artboardWidth": 1440,
+    "artboardHeight": 1043,
+    "fits": true
+  },
+  {
+    "artboard": "39-storage-states",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 898,
+    "artboardWidth": 1440,
+    "artboardHeight": 930,
+    "fits": true
+  },
+  {
+    "artboard": "40-preference-states",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 885,
+    "artboardWidth": 1440,
+    "artboardHeight": 917,
+    "fits": true
+  },
+  {
+    "artboard": "41-choice-menus",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 973,
+    "artboardWidth": 1440,
+    "artboardHeight": 1005,
+    "fits": true
+  },
+  {
+    "artboard": "42-control-states",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 969,
+    "artboardWidth": 1440,
+    "artboardHeight": 1001,
+    "fits": true
+  },
+  {
+    "artboard": "43-empty-loading",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 776,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "44-error-recovery",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 728,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "45-feedback-validation",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 865,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "46-light-theme",
+    "node": "Discover content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "47-library-series",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "47-library-series",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "47-library-series",
+    "node": "Local episodes",
+    "right": 1408,
+    "bottom": 837,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "48-rule-history",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "48-rule-history",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "48-rule-history",
+    "node": "History keeps the la\u2026",
+    "right": 1408,
+    "bottom": 871,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "50-queue-states",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 825,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "51-action-menus",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 893,
+    "artboardWidth": 1440,
+    "artboardHeight": 925,
+    "fits": true
+  },
+  {
+    "artboard": "52-diagnostics-states",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 828,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "53-settings-choices",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 966,
+    "artboardWidth": 1440,
+    "artboardHeight": 998,
+    "fits": true
+  },
+  {
+    "artboard": "54-secondary-transitions",
+    "node": "State comparison",
+    "right": 1408,
+    "bottom": 994,
+    "artboardWidth": 1440,
+    "artboardHeight": 1026,
+    "fits": true
+  },
+  {
+    "artboard": "04-monitor-setup",
+    "node": "Modal backdrop",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "04-monitor-setup",
+    "node": "04 \u00b7 Monitor Interstellar",
+    "right": 1000,
+    "bottom": 783,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "04-monitor-setup",
+    "node": "Dialog actions",
+    "right": 975,
+    "bottom": 758,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "09-discover-list",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "09-discover-list",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "09-discover-list",
+    "node": "Movie table",
+    "right": 1408,
+    "bottom": 728,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "17-monitoring",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "17-monitoring",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "17-monitoring",
+    "node": "Monitoring rules",
+    "right": 1408,
+    "bottom": 825,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "49-download-bulk",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "49-download-bulk",
+    "node": "Main content",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "49-download-bulk",
+    "node": "Download queue",
+    "right": 1408,
+    "bottom": 846,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "18-rule-details",
+    "node": "Drawer backdrop",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "18-rule-details",
+    "node": "18 \u00b7 Interstellar rule",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "18-rule-details",
+    "node": "View full history",
+    "right": 1416.0,
+    "bottom": 884,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "19-edit-rule",
+    "node": "Modal backdrop",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "19-edit-rule",
+    "node": "19 \u00b7 Edit monitoring rule",
+    "right": 1000,
+    "bottom": 744.5,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "19-edit-rule",
+    "node": "Dialog actions",
+    "right": 975,
+    "bottom": 719.5,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "20-delete-rule",
+    "node": "Modal backdrop",
+    "right": 1440,
+    "bottom": 900,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "20-delete-rule",
+    "node": "20 \u00b7 Delete this rule?",
+    "right": 970,
+    "bottom": 577,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  },
+  {
+    "artboard": "20-delete-rule",
+    "node": "Dialog actions",
+    "right": 945,
+    "bottom": 552,
+    "artboardWidth": 1440,
+    "artboardHeight": 900,
+    "fits": true
+  }
+]

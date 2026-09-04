@@ -1,0 +1,30 @@
+{
+  "buttons": [
+    {
+      "label": "Preview first-run setup",
+      "left": 468,
+      "right": 638.0625,
+      "top": 830
+    },
+    {
+      "label": "Preview menu bar controls",
+      "left": 646.0625,
+      "right": 838.921875,
+      "top": 830
+    },
+    {
+      "label": "Reset demo workspace",
+      "left": 846.921875,
+      "right": 1019.1875,
+      "top": 830
+    }
+  ],
+  "gaps": [
+    8,
+    8
+  ],
+  "viewport": {
+    "height": 900,
+    "width": 1440
+  }
+}

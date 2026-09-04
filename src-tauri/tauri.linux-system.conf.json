@@ -1,0 +1,19 @@
+{
+  "bundle": {
+    "createUpdaterArtifacts": false,
+    "externalBin": [],
+    "linux": {
+      "deb": {
+        "depends": [
+          "libwebkit2gtk-4.1-0",
+          "libayatana-appindicator3-1",
+          "libssl3",
+          "ca-certificates"
+        ]
+      },
+      "rpm": {
+        "depends": ["webkit2gtk4.1", "libappindicator-gtk3", "openssl-libs", "ca-certificates"]
+      }
+    }
+  }
+}

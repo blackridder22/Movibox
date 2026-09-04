@@ -1,0 +1,45 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "useDefineForClassFields": true,
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": ["src"],
+  "exclude": [
+    "src/views/player/**",
+    "src/views/player.tsx",
+    "src/components/player/**",
+    "src/lib/player/**",
+    "src/lib/player-shells/**",
+    "src/views/multiview/**",
+    "src/views/multiview.tsx",
+    "src/lib/multiview/**",
+    "src/views/live/**",
+    "src/views/live.tsx",
+    "src/lib/dvr/**",
+    "src/chrome/recording-pill.tsx",
+    "src/views/playlist-vod.tsx",
+    "src/views/hdr-overlay-app.tsx",
+    "src/views/modal-overlay-app.tsx",
+    "src/views/pip.tsx",
+    "src/views/remote-app.tsx",
+    "src/components/update/**",
+    "src/lib/updater/**"
+  ],
+  "references": [{ "path": "./tsconfig.node.json" }]
+}

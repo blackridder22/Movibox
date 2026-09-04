@@ -1,0 +1,17 @@
+The following is a diff from the previous accessibility tree for Window: "MoviBox" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 3-11, 13-34, 40-41, 50-69
+~				49 button View search logs
++			50 container
++				51 button
++				52 container Source search logs
++					53 heading Source search logs, Value: 2
++						54 text Source search logs
++					55 text Refreshes every two seconds. Credentials and private source URLs are excluded.
++					56 button Close dialog
++					57 text 3 recent events
++					58 text 8/29/2026, 11:11:09 PM [warning] sources: No download-source add-on is configured for this title. Cinemeta supplies titles and episodes; TorBox prepares sources after a source add-on finds them.
+8/29/2026, 11:11:09 PM [info] sources: Cinemeta: Metadata/catalog only for this title; no download-source request was sent.
+8/29/2026, 11:11:09 PM [info] sources: Source search started for movie
++					59 button Refresh logs
++					60 button Copy logs
++				61 button

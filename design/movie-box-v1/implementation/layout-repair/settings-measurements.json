@@ -1,0 +1,121 @@
+[
+  {
+    "gap": "22px",
+    "groups": [
+      {
+        "gap": "8px",
+        "wrap": "wrap"
+      }
+    ],
+    "left": 468,
+    "overflow": false,
+    "section": "Providers",
+    "width": 800
+  },
+  {
+    "gap": "22px",
+    "groups": [
+      {
+        "gap": "8px",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "wrap": "wrap"
+      }
+    ],
+    "left": 468,
+    "overflow": false,
+    "section": "Sources & add-ons",
+    "width": 800
+  },
+  {
+    "gap": "22px",
+    "groups": [
+      {
+        "gap": "8px",
+        "wrap": "wrap"
+      }
+    ],
+    "left": 468,
+    "overflow": false,
+    "section": "Storage",
+    "width": 800
+  },
+  {
+    "gap": "22px",
+    "groups": [],
+    "left": 468,
+    "overflow": false,
+    "section": "Downloads",
+    "width": 800
+  },
+  {
+    "gap": "22px",
+    "groups": [],
+    "left": 468,
+    "overflow": false,
+    "section": "Scheduling",
+    "width": 800
+  },
+  {
+    "gap": "16px",
+    "groups": [
+      {
+        "gap": "8px",
+        "wrap": "wrap"
+      }
+    ],
+    "left": 468,
+    "overflow": false,
+    "section": "Appearance",
+    "width": 800
+  },
+  {
+    "gap": "16px",
+    "groups": [
+      {
+        "gap": "8px",
+        "wrap": "wrap"
+      }
+    ],
+    "left": 468,
+    "overflow": false,
+    "section": "Shortcuts",
+    "width": 800
+  },
+  {
+    "gap": "16px",
+    "groups": [
+      {
+        "gap": "8px",
+        "wrap": "wrap"
+      }
+    ],
+    "left": 468,
+    "overflow": false,
+    "section": "Notifications",
+    "width": 800
+  },
+  {
+    "gap": "22px",
+    "groups": [
+      {
+        "gap": "8px",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "wrap": "wrap"
+      },
+      {
+        "gap": "8px",
+        "wrap": "wrap"
+      }
+    ],
+    "left": 468,
+    "overflow": false,
+    "section": "About & diagnostics",
+    "width": 800
+  }
+]

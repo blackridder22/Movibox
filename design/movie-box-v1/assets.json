@@ -1,0 +1,136 @@
+[
+  {
+    "slug": "interstellar",
+    "imdb": "tt0816692",
+    "title": "Interstellar",
+    "year": "2014",
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "runtime": "169 min",
+    "source": "https://v3-cinemeta.strem.io/meta/movie/tt0816692.json",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt0816692/img",
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/interstellar.jpg",
+    "backgroundPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/interstellar-backdrop.jpg",
+    "backgroundUrl": "https://images.metahub.space/background/medium/tt0816692/img"
+  },
+  {
+    "slug": "dune",
+    "imdb": "tt1160419",
+    "title": "Dune: Part One",
+    "year": "2021",
+    "genres": ["Action", "Adventure", "Drama"],
+    "runtime": "155 min",
+    "source": "https://v3-cinemeta.strem.io/meta/movie/tt1160419.json",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt1160419/img",
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/dune.jpg"
+  },
+  {
+    "slug": "arrival",
+    "imdb": "tt2543164",
+    "title": "Arrival",
+    "year": "2016",
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "runtime": "116 min",
+    "source": "https://v3-cinemeta.strem.io/meta/movie/tt2543164.json",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt2543164/img",
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/arrival.jpg"
+  },
+  {
+    "slug": "the-batman",
+    "imdb": "tt1877830",
+    "title": "The Batman",
+    "year": "2022",
+    "genres": ["Action", "Crime", "Drama"],
+    "runtime": "177 min",
+    "source": "https://v3-cinemeta.strem.io/meta/movie/tt1877830.json",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt1877830/img",
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/the-batman.jpg"
+  },
+  {
+    "slug": "past-lives",
+    "imdb": "tt13238346",
+    "title": "Past Lives",
+    "year": "2023",
+    "genres": ["Drama", "Romance"],
+    "runtime": "106 min",
+    "source": "https://v3-cinemeta.strem.io/meta/movie/tt13238346.json",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt13238346/img",
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/past-lives.jpg"
+  },
+  {
+    "slug": "grand-budapest",
+    "imdb": "tt2278388",
+    "title": "The Grand Budapest Hotel",
+    "year": "2014",
+    "genres": ["Comedy", "Drama"],
+    "runtime": "100 min",
+    "source": "https://v3-cinemeta.strem.io/meta/movie/tt2278388.json",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt2278388/img",
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/grand-budapest.jpg"
+  },
+  {
+    "slug": "blade-runner-2049",
+    "imdb": "tt1856101",
+    "title": "Blade Runner 2049",
+    "year": "2017",
+    "genres": ["Action", "Drama", "Mystery"],
+    "runtime": "164 min",
+    "source": "https://v3-cinemeta.strem.io/meta/movie/tt1856101.json",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt1856101/img",
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/blade-runner-2049.jpg"
+  },
+  {
+    "slug": "her",
+    "imdb": "tt1798709",
+    "title": "Her",
+    "year": "2014",
+    "genres": ["Drama", "Romance", "Sci-Fi"],
+    "runtime": "126 min",
+    "source": "https://v3-cinemeta.strem.io/meta/movie/tt1798709.json",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt1798709/img",
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/her.jpg"
+  },
+  {
+    "slug": "moonrise-kingdom",
+    "imdb": "tt1748122",
+    "title": "Moonrise Kingdom",
+    "year": "2012",
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "runtime": "94 min",
+    "source": "https://v3-cinemeta.strem.io/meta/movie/tt1748122.json",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt1748122/img",
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/moonrise-kingdom.jpg"
+  },
+  {
+    "slug": "everything-everywhere",
+    "imdb": "tt6710474",
+    "title": "Everything Everywhere All at Once",
+    "year": "2022",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "runtime": "140 min",
+    "source": "https://v3-cinemeta.strem.io/meta/movie/tt6710474.json",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt6710474/img",
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/everything-everywhere.jpg"
+  },
+  {
+    "slug": "perfect-days",
+    "imdb": "tt27503384",
+    "title": "Perfect Days",
+    "year": "2023",
+    "genres": ["Drama"],
+    "runtime": "124 min",
+    "source": "https://v3-cinemeta.strem.io/meta/movie/tt27503384.json",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt27503384/img",
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/perfect-days.jpg"
+  },
+  {
+    "slug": "oppenheimer",
+    "imdb": "tt15398776",
+    "title": "Oppenheimer",
+    "year": "2023",
+    "genres": ["Biography", "Drama", "History"],
+    "runtime": "181 min",
+    "source": "https://v3-cinemeta.strem.io/meta/movie/tt15398776.json",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt15398776/img",
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/oppenheimer.jpg"
+  }
+]

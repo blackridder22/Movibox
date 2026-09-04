@@ -1,0 +1,19 @@
+MOVIBOX
+End User License Agreement and Disclaimer
+
+MoviBox is a desktop download manager built on the Stremio protocol. It does not host, upload,
+index, or provide media or content sources. Catalogs and downloadable sources come from add-ons
+and third-party services that you choose and configure. MoviBox is not affiliated with or endorsed
+by Stremio, any add-on, indexer, tracker, or debrid provider.
+
+You are responsible for the add-ons you install, the content you download, and compliance with the
+copyright and other laws that apply where you live. Only download content you are legally allowed
+to obtain.
+
+Peer-to-peer sources can expose your IP address to peers. Debrid providers and other third-party
+services have their own terms and privacy policies. MoviBox stores its job database on your device.
+
+MoviBox is provided "as is" and without warranty. To the maximum extent permitted by law, its
+authors are not liable for damages arising from its use or from third-party sources and services.
+
+By installing MoviBox, you accept this agreement.

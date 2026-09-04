@@ -1,0 +1,178 @@
+[
+  {
+    "slug": "severance",
+    "imdb": "tt11280740",
+    "title": "Severance",
+    "year": "2022\u2013",
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/severance.jpg",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt11280740/img",
+    "source": "https://v3-cinemeta.strem.io/meta/series/tt11280740.json",
+    "episodes": [
+      {
+        "title": "Good News About Hell",
+        "season": 1,
+        "episode": 1,
+        "released": "2022-02-19T05:00:00.000Z"
+      },
+      {
+        "title": "Half Loop",
+        "season": 1,
+        "episode": 2,
+        "released": "2022-02-19T05:00:00.000Z"
+      },
+      {
+        "title": "In Perpetuity",
+        "season": 1,
+        "episode": 3,
+        "released": "2022-02-26T05:00:00.000Z"
+      },
+      {
+        "title": "The You You Are",
+        "season": 1,
+        "episode": 4,
+        "released": "2022-03-05T05:00:00.000Z"
+      },
+      {
+        "title": "The Grim Barbarity of Optics and Design",
+        "season": 1,
+        "episode": 5,
+        "released": "2022-03-12T05:00:00.000Z"
+      },
+      {
+        "title": "Hide and Seek",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-03-19T05:00:00.000Z"
+      },
+      {
+        "title": "Defiant Jazz",
+        "season": 1,
+        "episode": 7,
+        "released": "2022-03-26T05:00:00.000Z"
+      },
+      {
+        "title": "What\u2019s for Dinner?",
+        "season": 1,
+        "episode": 8,
+        "released": "2022-04-02T05:00:00.000Z"
+      },
+      {
+        "title": "The We We Are",
+        "season": 1,
+        "episode": 9,
+        "released": "2022-04-09T05:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "slug": "silo",
+    "imdb": "tt14688458",
+    "title": "Silo",
+    "year": "2023\u2013",
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/silo.jpg",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt14688458/img",
+    "source": "https://v3-cinemeta.strem.io/meta/series/tt14688458.json"
+  },
+  {
+    "slug": "the-bear",
+    "imdb": "tt14452776",
+    "title": "The Bear",
+    "year": "2022\u20132026",
+    "genres": ["Comedy", "Drama"],
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/the-bear.jpg",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt14452776/img",
+    "source": "https://v3-cinemeta.strem.io/meta/series/tt14452776.json"
+  },
+  {
+    "slug": "dark",
+    "imdb": "tt5753856",
+    "title": "Dark",
+    "year": "2017\u20132020",
+    "genres": ["Crime", "Drama", "Mystery"],
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/dark.jpg",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt5753856/img",
+    "source": "https://v3-cinemeta.strem.io/meta/series/tt5753856.json"
+  },
+  {
+    "slug": "the-last-of-us",
+    "imdb": "tt3581920",
+    "title": "The Last of Us",
+    "year": "2023\u2013",
+    "genres": ["Action", "Adventure", "Drama"],
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/the-last-of-us.jpg",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt3581920/img",
+    "source": "https://v3-cinemeta.strem.io/meta/series/tt3581920.json"
+  },
+  {
+    "slug": "breaking-bad",
+    "imdb": "tt0903747",
+    "title": "Breaking Bad",
+    "year": "2008\u20132013",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/breaking-bad.jpg",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt0903747/img",
+    "source": "https://v3-cinemeta.strem.io/meta/series/tt0903747.json"
+  },
+  {
+    "slug": "andor",
+    "imdb": "tt9253284",
+    "title": "Andor",
+    "year": "2022\u20132025",
+    "genres": ["Action", "Adventure", "Drama"],
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/andor.jpg",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt9253284/img",
+    "source": "https://v3-cinemeta.strem.io/meta/series/tt9253284.json"
+  },
+  {
+    "slug": "shogun",
+    "imdb": "tt2788316",
+    "title": "Shogun",
+    "year": "2024\u20132026",
+    "genres": ["Action", "Adventure", "Drama"],
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/shogun.jpg",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt2788316/img",
+    "source": "https://v3-cinemeta.strem.io/meta/series/tt2788316.json"
+  },
+  {
+    "slug": "the-expanse",
+    "imdb": "tt3230854",
+    "title": "The Expanse",
+    "year": "2015\u20132022",
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/the-expanse.jpg",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt3230854/img",
+    "source": "https://v3-cinemeta.strem.io/meta/series/tt3230854.json"
+  },
+  {
+    "slug": "succession",
+    "imdb": "tt7660850",
+    "title": "Succession",
+    "year": "2018\u20132023",
+    "genres": ["Comedy", "Drama"],
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/succession.jpg",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt7660850/img",
+    "source": "https://v3-cinemeta.strem.io/meta/series/tt7660850.json"
+  },
+  {
+    "slug": "slow-horses",
+    "imdb": "tt5875444",
+    "title": "Slow Horses",
+    "year": "2022\u2013",
+    "genres": ["Drama", "Thriller"],
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/slow-horses.jpg",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt5875444/img",
+    "source": "https://v3-cinemeta.strem.io/meta/series/tt5875444.json"
+  },
+  {
+    "slug": "foundation",
+    "imdb": "tt0804484",
+    "title": "Foundation",
+    "year": "2021\u2013",
+    "genres": ["Drama", "Sci-Fi"],
+    "posterPath": "/Users/werleydessources/Documents/Codex/MoviBox/design/movie-box-v1/assets/foundation.jpg",
+    "posterUrl": "https://images.metahub.space/poster/medium/tt0804484/img",
+    "source": "https://v3-cinemeta.strem.io/meta/series/tt0804484.json"
+  }
+]
