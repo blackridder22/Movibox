@@ -62,6 +62,7 @@ jobs:
       - uses: Swatinem/rust-cache@v2
         with:
           workspaces: src-tauri
+          cache-on-failure: true
       - name: Linux build dependencies
         if: runner.os == 'Linux'
         run: |
@@ -75,7 +76,16 @@ jobs:
       - name: Release preflight
         shell: bash
         run: node scripts/release.mjs config ${{ inputs.signed && 'signed' || 'local' }}
-      - name: Build installers (no publication)
+      - name: Build local installers
+        if: ${{ !inputs.signed }}
+        shell: bash
+        run: |
+          unset APPLE_CERTIFICATE APPLE_CERTIFICATE_PASSWORD APPLE_SIGNING_IDENTITY
+          unset APPLE_ID APPLE_PASSWORD APPLE_TEAM_ID
+          unset TAURI_SIGNING_PRIVATE_KEY TAURI_SIGNING_PRIVATE_KEY_PASSWORD
+          pnpm tauri build --ci --target ${{ matrix.target }} --bundles ${{ matrix.bundles }} --config src-tauri/tauri.release.generated.json
+      - name: Build signed installers
+        if: inputs.signed
         uses: tauri-apps/tauri-action@v0
         env:
           APPLE_CERTIFICATE: ${{ inputs.signed && secrets.APPLE_CERTIFICATE || '' }}
