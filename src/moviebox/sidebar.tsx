@@ -9,6 +9,7 @@ import {
   Clock3,
   Library,
   Settings,
+  MessageSquare,
   PanelLeftClose,
   PanelLeftOpen,
 } from "lucide-react";
@@ -51,12 +52,14 @@ function SidebarContent({
   compact,
   onToggle,
   onNavigate,
+  onFeedback,
   toggleRef,
 }: {
   page: Page;
   compact: boolean;
   onToggle: () => void;
   onNavigate: () => void;
+  onFeedback: () => void;
   toggleRef?: React.RefObject<HTMLButtonElement | null>;
 }) {
   const state = useDemo();
@@ -139,6 +142,19 @@ function SidebarContent({
           </button>
         </NavHint>
         <div className="sidebar-actions">
+          <NavHint label="Give feedback" compact={compact}>
+            <button
+              className="nav-item"
+              aria-label="Give feedback"
+              onClick={() => {
+                onNavigate();
+                onFeedback();
+              }}
+            >
+              <MessageSquare size={18} />
+              <span>Feedback</span>
+            </button>
+          </NavHint>
           <NavHint label="Settings" compact={compact}>
             <a
               aria-label="Settings"
@@ -169,7 +185,7 @@ function SidebarContent({
   );
 }
 
-export function Sidebar({ page }: { page: Page }) {
+export function Sidebar({ page, onFeedback }: { page: Page; onFeedback: () => void }) {
   const { preferences } = useDemo();
   const [narrow, setNarrow] = useState(() => matchMedia("(max-width: 760px)").matches);
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -191,6 +207,7 @@ export function Sidebar({ page }: { page: Page }) {
           page={page}
           compact={compact}
           toggleRef={toggleRef}
+          onFeedback={onFeedback}
           onNavigate={() => setMobileOpen(false)}
           onToggle={() =>
             narrow
@@ -207,6 +224,7 @@ export function Sidebar({ page }: { page: Page }) {
             <SidebarContent
               page={page}
               compact={false}
+              onFeedback={onFeedback}
               onToggle={() => setMobileOpen(false)}
               onNavigate={() => setMobileOpen(false)}
             />

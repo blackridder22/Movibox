@@ -386,7 +386,7 @@ export function Modal({
   onClose: () => void;
   footer?: ReactNode;
   wide?: boolean;
-  size?: "compact" | "form";
+  size?: "compact" | "form" | "feedback" | "policy";
 }) {
   const [present, safeToRemove] = usePresence();
   const restore = useRef<HTMLElement | null>(

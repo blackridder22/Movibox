@@ -1,0 +1,48 @@
+.modal.modal-policy {
+  width: 760px;
+  max-height: calc(100dvh - var(--window-titlebar-height, 0px) - 48px);
+}
+.policy-document {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.75;
+  overflow-wrap: anywhere;
+}
+.policy-document > * + * {
+  margin-top: 16px;
+}
+.policy-document h2 {
+  color: var(--text);
+  font-size: 18px;
+  line-height: 1.4;
+  margin-top: 28px;
+}
+.policy-document strong {
+  color: var(--text);
+  font-weight: 600;
+}
+.policy-document a,
+.policy-link {
+  color: var(--text);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.policy-link {
+  display: inline;
+  border: 0;
+  padding: 0;
+  background: none;
+  font: inherit;
+  cursor: pointer;
+}
+.policy-document a:hover,
+.policy-link:hover {
+  color: var(--primary);
+}
+.policy-document ul,
+.policy-document ol {
+  padding-left: 24px;
+}
+.policy-document code {
+  font-size: 0.9em;
+}

@@ -1,6 +1,6 @@
 [package]
 name = "movibox"
-version = "0.9.21"
+version = "0.9.22"
 description = "A Stremio-powered automatic movie and series downloader"
 edition = "2021"
 
@@ -95,7 +95,13 @@ debug = "line-tables-only"
 
 [target.'cfg(target_os = "macos")'.dependencies]
 objc2 = "0.6"
-objc2-app-kit = { version = "0.3", default-features = false, features = ["std", "NSApplication", "NSMenu", "NSMenuItem", "NSImage"] }
+objc2-app-kit = { version = "0.3", default-features = false, features = [
+  "std",
+  "NSApplication",
+  "NSMenu",
+  "NSMenuItem",
+  "NSImage",
+] }
 objc2-foundation = { version = "0.3", default-features = false, features = ["std", "NSData"] }
 
 [dev-dependencies]

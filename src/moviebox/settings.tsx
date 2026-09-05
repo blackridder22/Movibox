@@ -1,6 +1,8 @@
 import { CatalogSettings, TmdbAttribution } from "./catalog-settings";
 import { BackupSettings } from "./backup-settings";
 import { UpdateSettings } from "./update-settings";
+import { FeedbackSettings } from "./feedback";
+import { PolicySettings } from "./policies";
 import { ProviderAccounts, SubtitleSettings } from "./provider-settings";
 import { IndexerSettings } from "./bridge";
 import { backend, native } from "./backend";
@@ -45,9 +47,12 @@ export const settingsSections = [
   "Appearance",
   "Shortcuts",
   "Notifications",
+  "Feedback",
+  "Updates",
+  "Privacy & legal",
   "About & diagnostics",
 ];
-export function Settings({ section }: { section?: string }) {
+export function Settings({ section, onFeedback }: { section?: string; onFeedback: () => void }) {
   const active = settingsSections.includes(section ?? "") ? section! : "Providers";
   return (
     <section className="page settings-page">
@@ -94,6 +99,18 @@ export function Settings({ section }: { section?: string }) {
             <ShortcutSettings />
           ) : active === "Notifications" ? (
             <NotificationSettings />
+          ) : active === "Feedback" ? (
+            <FeedbackSettings onFeedback={onFeedback} />
+          ) : active === "Updates" ? (
+            <>
+              <Intro
+                title="Updates"
+                description={`MoviBox ${__APP_VERSION__} · Check automatically and review before installing.`}
+              />
+              <UpdateSettings />
+            </>
+          ) : active === "Privacy & legal" ? (
+            <PolicySettings />
           ) : (
             <AboutSettings />
           )}
@@ -1104,7 +1121,7 @@ async function exportReport(includePaths: boolean) {
   }
   const report = {
     product: "Movie Box",
-    version: "0.9.21-ui-preview",
+    version: `${__APP_VERSION__}-ui-preview`,
     mode: "demo",
     timestamp: new Date().toISOString(),
     health: {
@@ -1141,7 +1158,10 @@ function AboutSettings() {
         <BrandMark />
         <div>
           <h3>Movie Box</h3>
-          <p>Desktop app · 0.9.21{!native && " UI preview"}</p>
+          <p>
+            Desktop app · {__APP_VERSION__}
+            {!native && " UI preview"}
+          </p>
         </div>
       </div>
       <TmdbAttribution />
@@ -1180,7 +1200,7 @@ function AboutSettings() {
                 return;
               }
               await navigator.clipboard.writeText(
-                "Movie Box 0.9.21 UI preview\nProvider: demo adapter\nDownload engine and scheduler: not connected\nLibrary folder: not verified\nCredentials and paths excluded.",
+                `Movie Box ${__APP_VERSION__} UI preview\nProvider: demo adapter\nDownload engine and scheduler: not connected\nLibrary folder: not verified\nCredentials and paths excluded.`,
               );
               notify("Diagnostics copied. Credentials and paths excluded.");
             } catch {
@@ -1204,6 +1224,7 @@ function AboutSettings() {
         Credentials and private source URLs are excluded. Review logs before sharing.
       </Banner>
       <ActionGroup>
+        <Button onClick={() => navigate("settings", "Privacy & legal")}>Privacy & legal</Button>
         <Button onClick={() => setModal("licenses")}>Open-source licenses</Button>
         <Button onClick={() => (native ? setModal("export") : demoHandoff("Report a problem"))}>
           <ExternalLink size={15} />

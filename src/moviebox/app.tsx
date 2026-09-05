@@ -17,6 +17,7 @@ import { HistoryPage } from "./history";
 import { Monitoring, NewRulePicker, RuleForm } from "./monitoring";
 import { Library } from "./library";
 import { Settings } from "./settings";
+import { FeedbackDialog } from "./feedback";
 import { Setup } from "./setup";
 import { navigate, useRoute } from "./routing";
 import { notify, updateDemo, useDemo } from "./store";
@@ -75,6 +76,7 @@ function MovieBoxContent() {
   } | null>(null);
   const [pick, setPick] = useState(false);
   const [quit, setQuit] = useState(false);
+  const [feedbackOpen, setFeedbackOpen] = useState(false);
   useLayoutEffect(() => {
     const media = window.matchMedia("(prefers-color-scheme: light)");
     const apply = () => {
@@ -170,7 +172,7 @@ function MovieBoxContent() {
         <Setup />
       ) : (
         <div className="app">
-          <Sidebar page={page} />
+          <Sidebar page={page} onFeedback={() => setFeedbackOpen(true)} />
           <motion.main
             ref={mainRef}
             layout={instant || reduced ? false : "position"}
@@ -193,7 +195,7 @@ function MovieBoxContent() {
             ) : page === "library" ? (
               <Library detail={detail} />
             ) : (
-              <Settings section={detail} />
+              <Settings section={detail} onFeedback={() => setFeedbackOpen(true)} />
             )}
           </motion.main>
         </div>
@@ -241,6 +243,9 @@ function MovieBoxContent() {
             }}
           />
         )}
+      </Presence>
+      <Presence>
+        {feedbackOpen && <FeedbackDialog key="feedback" onClose={() => setFeedbackOpen(false)} />}
       </Presence>
       <Notices />
     </>
