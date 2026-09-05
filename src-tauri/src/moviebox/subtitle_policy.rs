@@ -314,6 +314,7 @@ mod tests {
             0
         );
         assert_eq!(std::fs::read(&video).unwrap(), b"owned video bytes");
+        drop(runtime);
         std::fs::remove_dir_all(root).unwrap();
     }
     #[test]

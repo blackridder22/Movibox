@@ -1,0 +1,2 @@
+# Signed fixtures must retain their exact bytes on every checkout.
+tests/fixtures/updater/sample.bin binary

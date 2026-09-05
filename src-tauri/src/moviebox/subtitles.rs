@@ -1050,6 +1050,7 @@ mod recovery_tests {
         assert_eq!(retried["policy"]["exactOnly"], false);
         assert_eq!(retried["policy"]["ruleId"], "rule");
         assert_eq!(retried["language"], "fr");
+        drop(runtime);
         std::fs::remove_dir_all(root).unwrap();
     }
     #[tokio::test]

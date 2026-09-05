@@ -270,8 +270,15 @@ mod tests {
             .put("media", "owned", &json!({"title":"Owned"}))
             .unwrap();
         runtime.put("bundle-plan","review",&json!({"request":{"id":"owned"},"plan":{"title":"Owned","season":1,"rows":[{"status":"pending"}]}})).unwrap();
+        let destination = path.with_extension("downloads");
         let intent = runtime
-            .queue_wait("review", "/tmp/owned-fixture", "Any time", "UTC", None)
+            .queue_wait(
+                "review",
+                destination.to_str().unwrap(),
+                "Any time",
+                "UTC",
+                None,
+            )
             .unwrap();
         drop(runtime);
         let runtime = test_runtime(&path);
